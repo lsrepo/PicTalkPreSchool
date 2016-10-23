@@ -1,0 +1,278 @@
+parent,child,picName,english,swedish,arabic
+context,parents,"
+",parents,föräldrar,والِدان
+system,,,back,tillbaka,رُجوع
+parents,greet,,greet,hälsa ,تَحيّة
+greet,,,Hello!,Hej!,أهْلاً وسهلاً!
+greet,,,Welcome!,Välkommen!,مرحباً بك!
+greet,,,How are you?,Hur mår du?,كَيفَ حالك؟
+greet,,,"I'm fine, thanks.","Tack, jag mår bra.","أنا بخير, شكراً."
+greet,,,What’s your name?,Vad heter du?,ما اسمك؟
+greet,,,My name is,Jag heter,"أنا إِسمي
+"
+greet,,,Nice to meet you!,Trevligt att träffas!,تَشَرَّفْنا!
+"parents
+",to-the-preschool,,to the preschool,till förskolan,"
+إِلى الحضانة"
+to-the-preschool,,,,Jag kommer att bli sen.,أنا سَوْفَ أَتَأَخَّر.
+to-the-preschool,,,,Han har läkarbesök.,لديه موعد طبيب.
+to-the-preschool,,,,Hon har läkarbesök.,لديها موعد طبيب.
+"parents
+",from-the-preschool,,from the preschool,"från förskolan
+",مِن الحضانة
+from-the-preschool,,,,han har ätit bra idag,أَكَلَ جَيِّد اليَوم.
+from-the-preschool,,,,hon har ätit bra idag,أَكَلَت جَيِّد اليَوم.
+from-the-preschool,,,,han har inte ätit bra idag,لَمْ يَأْكُلْ جَيِّد اليَوم.
+from-the-preschool,,,,hon har inte ätit bra idag,لَمْ تَأْكُلْ جَيِّد اليَوم.
+from-the-preschool,,,,han har ätit lite idag,أَكَلَ قَليل اليَوم.
+from-the-preschool,,,,hon har ätit lite idag,أَكَلَت قَليل اليَوم.
+from-the-preschool,,,,han har sovit bra idag,لَقَدْ نامَ اليَوم.
+from-the-preschool,,,,hon har sovit bra idag,لَقَدْ نامَتْ اليَوم.
+from-the-preschool,,,,han har inte sovit idag,لَمْ يَنَمْ اليَوم.
+from-the-preschool,,,,hon har inte sovit idag,لَمْ تَنَمْ اليَوم.
+from-the-preschool,,,,han har varit glad idag,كانَ فَرْحان اليَوم.
+from-the-preschool,,,,hon har varit glad idag,كانَتْ فَرْحانة اليَوم.
+from-the-preschool,,,,han har varit sur idag,كانَ زَعْلان اليَوم.
+from-the-preschool,,,,hon har varit sur idag,كانَ زَعْلانة اليَوم.
+from-the-preschool,,,,han grät mycket,بَكى كَثيراً.
+from-the-preschool,,,,hon grät mycket,بَكَتْ كَثيراً.
+from-the-preschool,,,,Kan du fråga varför?,هل يُمْكِنُك أن تَسْأَل لِماذا؟
+from-the-preschool,,,,han är sjuk,هو مَريض
+from-the-preschool,,,,hon är sjuk,هي مَريضة
+from-the-preschool,,,,han måste vila hemma några dagar,يَجِب أن يَسْتَريح في البيت كَم يَوم.
+from-the-preschool,,,,hon måste vila hemma några dagar,يَجِب أن تَسْتَريح في البيت كَم يَوم.
+from-the-preschool,,,,han har ont i magen,لديه وَجَع في بَطنِه.
+from-the-preschool,,,,hon har ont i magen,لديها وَجَع في بَطنِها.
+from-the-preschool,,,,ta med blöjor,اُحْضُرْ حِفاظات
+from-the-preschool,,,,ta med extra kläder,اُحْضُرْ مَلابِس إضافيّة
+parents,closing,,closing,avsluta,نِهاية
+closing,,,Bye!,Hej då!,مَعَ السَّلَامَة!
+closing,,,See you!,Vi ses!,إِلى اللقاء!
+Quick,basic ,,basic words,basord,المفردات الأساسية
+basic,,,I,jag,أنا
+basic,,,you,du,أَنْتَ
+basic,,,yes,ja,نعم
+basic,,,no,nej,لا
+basic,,,want,vilja,يُريد
+basic,,,need,behöva,يحتاج إِلى
+basic,,,have,ha,لدى
+basic,,,I have,jag har ,عِنْدِي
+basic,,,can,kan,يستطيع
+basic,,,talk,tala,يَتَحَدَّث
+basic,,,OK,okej,مُوْافِق
+basic,,,not,inte,لا/لَيْسَ
+basic,,,good,bra,جَيِّد
+basic,,,bad,dåligt,سَيِّئ
+basic,,,great,utmärkt,عَظيم
+basic,,,to,till ,إِلَى
+basic,,,on,på,عَلَى
+basic,,,in,i,فِي
+basic,,,with,med,مَع
+basic,,,this ,den här,هَذَا
+basic,,,"
+",mycket,كَثير 
+basic,,,,lite,"
+قَليل"
+basic,,,thanks,tack,شكراً
+basic,,,please ,vänligen ,من فضلك
+basic,,,Hello!,Hej!,أهْلاً وسهلاً!
+basic,,,Bye!,Hej då!,مَعَ السَّلَامَة!
+basic,,,I don't know.,Jag vet inte.,لا أعرف.
+Quick,question,,question,fråga,سؤال
+question,,,who,vem,مَن
+question,,,where,var,أَينَ
+question,,,when,när,متى
+question,,,why,varför,لماذا
+question,,,what,vad,ما/ماذا
+question,,,which,"vilken
+",أيّ
+question,,,how,hur,كيفَ
+question,,,Do you understand?,Förstår du?,هل تَفْهَم؟
+question,,,Do you have any questions?,Har du några frågor?,"هَلْ لديك أي أسئلة؟
+"
+question,,,Can you repeat?,Kan du upprepa?,أَعِدْ مِن فضلك؟
+Quick,numbers,numbers,numbers,siffror,أَرْقَام
+numbers,,,0,0,"٠
+"
+numbers,,,1,1,"١
+"
+numbers,,,2,2,"٢
+"
+numbers,,,3,3,٣
+numbers,,,4,4,٤
+numbers,,,5,5,٥
+numbers,,,6,6,٦
+numbers,,,7,7,٧
+numbers,,,8,8,٨
+numbers,,,9,9,٩
+Quick,time,time,time,tid,"الوقت
+"
+time,,,time,"tid
+",وقت
+time,,,hour,timme,ساعة
+time,,,minute,minut,دَقيقة
+time,,,half,halv,نِصف
+time,,"
+",o'clock,klockan,"الساعة
+"
+time,,,today,idag ,اليوم
+time,,,tomorrow,i morgon,غَداً
+time,,,day,dag,"يوم
+"
+time,,,week,vecka,أسبوع
+time,,,month,månad,شهر
+time,,,year,år,سَنة
+time,,,before,"innan
+",قَبْلَ
+time,,,after ,"efter
+",بعد
+time,,,next,nästa,قادم
+time,,,now,nu,الآن
+time,,,sometimes,ibland,أحياناً
+time,,,never,aldrig,أَبَداً
+time,,,morning,morgon,صباح
+time,,,afternoon,eftermiddag,بعد ظهر
+time,,,evening,kväll,مساء
+time,,,Monday,måndag,الإِثنَين
+time,,,Tuesday,tisdag,الثُّلاَثَاء
+time,,,Wednesday,onsdag,الأَربِعَاء
+time,,,Thursday,torsdag,الخَمِيس
+time,,,Friday,fredag,الجُمعَة
+time,,,Saturday,lördag,السَبْت
+time,,,Sunday,söndag,الأَحَد
+time,,,spring,vår,رَبيع
+time,,,summer,sommar,صَيْف
+time,,,autumn,höst,خَريف
+time,,,winter,vinter,شِتاء
+Quick,pronouns,,pronouns,pronomen,ضمائر
+pronouns,,,I ,jag,أنا
+pronouns,,,you,du,أًنْتَ
+pronouns,,,he,han,هُوَ
+pronouns,,,she,hon,هِيَ
+pronouns,,,we,vi,نَحْنُ
+pronouns,,,you ,ni,أَنْتُمْ
+pronouns,,,they,de ,هُم
+pronouns,,,mine ,min ,لِي
+pronouns,,,your,din,لَك
+Quick,people,,people,människor,الناس
+people,,,,personal,المُوَظَّفينَ
+people,,,,lärare,مُعَلِّم
+people,,,,sjuksköterska,مُمَرِّض 
+people,,,,läkare,طبيب
+people,,,,tolk,مترجم
+people,,,,vänner,أَصْدِقاء
+people,,,,mamma,أمّ
+people,,,,pappa,أب
+people,,,,syster ,أُخْت
+people,,,,bror,أَخ
+people,,,,son,إِبن
+people,,,,dotter,بنت
+people,,,,baby,رضيع
+people,,,,familj,عائلة
+people,,,grandmother,mormor/farmor,جدّة
+people,,,grandfather,morfar/farfar,جدّ
+Quick,places,,places,platser ,أماكن
+places,,,preschool,förskola,الحضانة
+places,,,home,hem,البيت
+places,,,playground,lekplats,حَديقة أَطْفال
+places,,,park,park, حَديقة عامّة
+places,,,forest,skog,غابة
+places,,,library,bibliotek,مَكْتَبة
+places,,,museum,museum,مَتْحَف
+places,,,hospital,sjukhus,مستشفى
+places,,,health center,vårdcentral, مركز الرعاية الصحية
+Quick,feelings,,feelings,känslor,مَشاعِرُ
+feelings,,,How are you?,Hur mår du?,كيف حالك؟
+feelings,,,I'm fine.,Jag mår bra.,أنا بخير.
+feelings,,,I am,Jag är,أنا
+feelings,,,happy,glad,سَعيد
+feelings,,,sad,ledsen,حَزين
+feelings,,,sick,sjuk,مَريض
+feelings,,,hungry,hungrig,جَوْعان
+feelings,,,thirsty,törstig,عَطْشان
+feelings,,,in pain,ha ont,يَأْلَم
+feelings,,,angry,arg,غاضِب
+feelings,,,safe,trygg,آمِن
+feelings,,,afraid,rädd,خائِف
+feelings,,,alone,ensam,وَحيد
+feelings,,,worried,orolig,قَلِق
+feelings,,,feeling hot,varm,حَرَّان
+feelings,,,feeling cold,fryser, بَرْدَان
+feelings,,,tired,trött,تَعْبان
+feelings,,,confused,förvirrad, مُتَحَيِّر
+feelings,,,surprised,förvånad,مُنْدَهِش
+Quick,food,,food,mat,الطَعام
+food,,,,äta,يَأْكُل
+food,,,,dricka,يَشْرَب
+food,,,,tycka om,يَحِبّ
+food,,,,tycker inte om,لا يَحِبّ
+food,,,,frukost,الفُطور
+food,,,,lunch,الغَداء
+food,,,,middag,العَشاء
+food,,,,mellanmål,وَجْبة خَفيفة
+food,,,,halalmat,طَعام حَلال
+food,,,,vegetarisk mat,طَعام نَباتيّ
+Quick,clothes,,clothes,kläder,مَلابِس
+clothes,,,"
+",kläder ,مَلابِس
+clothes,,,,tunn långärmad tröja,كنزة خفيفة ذو أَكْمام طويلة
+clothes,,,,tunna byxor,بنطلون خفيف
+clothes,,,,tunn jacka,جاكيت خفيف
+clothes,,,,t-shirt,تي شيرْت
+clothes,,,,shorts,سِرْوال قَصير
+clothes,,,,linne,فانِلّة فانِلّة أَكْمام
+clothes,,,,keps,قُبَّعة صيفية
+clothes,,,,sandaler,صَنْدَل
+clothes,,,,skor,حِذاء
+clothes,,,,kofta,كَنْزة
+clothes,,,,regnkläder,مَلابِس مطرية
+clothes,,,,stövlar,جَزْمة
+clothes,,,,mössa,قُبَّعة
+clothes,,,,tunna vantar,كفوف خفاف
+clothes,,,,handskar,قُفّازان
+clothes,,,,tjock jacka,جاكيت ثخين
+clothes,,,,täckbyxor,بنطلون شتوي
+clothes,,,,tjock tröja,كَنْزة سَميكة
+clothes,,,,strumpor,جَوارِب
+clothes,,,,strumpbyxor/långkalsonger,كيلون/بجامة تحت البنطلون
+clothes,,,,hjälm,خوذة
+Quick,activities,,activities,aktiviteter,أَنْشِطة
+activities,,,,tala,يَتَحَدَّث
+activities,,,play,leka,يَلْعَب
+activities,,,read,läsa,يَقْرَأ
+activities,,,write,skriva,يَكْتُب
+activities,,,draw,rita,يَرْسُم
+activities,,,sing,sjunga,يُغَنّي
+activities,,,sleep,sova,يَنْأَم
+activities,,,,rast,اسْتِراحة 
+activities,,,,utflykt,"
+نُزْهة"
+activities,,,,idrott,رِياضة
+activities,,,,fest,حَفْلة
+Quick,things,,things,saker,أَشْياء
+things,,,,blöjor,حِفاظات
+things,,,,solkräm, واقٍ شَمْسيّ
+things,,,,ryggsäck, حَقيبة ظَهْر
+things,,,,leksaker,لُعَب
+things,,,,boll,كُرة
+things,,,,bok,كِتاب
+things,,,,skrivbok,دَفْتَر
+things,,,,penna,قَلَم رَصاص
+things,,,,suddgummi,مِمْحاة
+things,,,,dator,حاسوب
+things,,,,surfplatta,حاسوب لَوْحيّ
+"
+Quick",communication,,communication,kommunikation,التَواصُل
+communication,,,call,ringa,يُهاتِف
+communication,,,phone,telefon,هاتِف
+communication,,,speak on the phone,tala i telefon,يَتَحَدَّث على الهاتف
+communication,,,contact,kontaka,يَتَّصِل بِ
+communication,,,"send
+",skicka,يرسل
+communication,,,phone number,telefonnummer,رَقْم هاتِفٍ
+communication,,,email,e-post,بَريد إلِكْتْرونيّ
+communication,,,text message,sms,رِسالة نَصّيّة
+"
+",,,"
+","
+",
