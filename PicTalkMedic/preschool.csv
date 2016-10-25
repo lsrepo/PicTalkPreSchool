@@ -1,6 +1,7 @@
 parent,child,picName,english,swedish,arabic
 context,parents,"
-",parents,föräldrar,والِدان
+",parents,föräldrar,أولياء الامور
+context,Daily schedule,,daily schedule,dagsschema,جَدْوَل يَوْميّ
 system,,,back,tillbaka,رُجوع
 parents,greet,,greet,hälsa ,تَحيّة
 greet,,,Hello!,Hej!,أهْلاً وسهلاً!
@@ -12,58 +13,74 @@ greet,,,My name is,Jag heter,"أنا إِسمي
 "
 greet,,,Nice to meet you!,Trevligt att träffas!,تَشَرَّفْنا!
 "parents
-",to-the-preschool,,to the preschool,till förskolan,"
-إِلى الحضانة"
-to-the-preschool,,,,Jag kommer att bli sen.,أنا سَوْفَ أَتَأَخَّر.
-to-the-preschool,,,,Han har läkarbesök.,لديه موعد طبيب.
-to-the-preschool,,,,Hon har läkarbesök.,لديها موعد طبيب.
+",practical information,,"practical information
+",praktisk information,"
+معلومات عملية"
+practical information,,,,Jag kommer att bli sen.,أنا سَوْفَ أَتَأَخَّر.
+practical information,,,,Han har läkarbesök.,لديه موعد طبيب.
+practical information,,,,Hon har läkarbesök.,لديها موعد طبيب.
+practical information,,,,ta med blöjor,اُحْضُرْ حِفاظات
+practical information,,,,ta med extra kläder,اُحْضُرْ مَلابِس إِضافيّة
+practical information,,,,föräldramöte,اجتماع أولياء الامور
 "parents
-",from-the-preschool,,from the preschool,"från förskolan
-",مِن الحضانة
-from-the-preschool,,,,han har ätit bra idag,أَكَلَ جَيِّد اليَوم.
-from-the-preschool,,,,hon har ätit bra idag,أَكَلَت جَيِّد اليَوم.
-from-the-preschool,,,,han har inte ätit bra idag,لَمْ يَأْكُلْ جَيِّد اليَوم.
-from-the-preschool,,,,hon har inte ätit bra idag,لَمْ تَأْكُلْ جَيِّد اليَوم.
-from-the-preschool,,,,han har ätit lite idag,أَكَلَ قَليل اليَوم.
-from-the-preschool,,,,hon har ätit lite idag,أَكَلَت قَليل اليَوم.
-from-the-preschool,,,,han har sovit bra idag,لَقَدْ نامَ اليَوم.
-from-the-preschool,,,,hon har sovit bra idag,لَقَدْ نامَتْ اليَوم.
-from-the-preschool,,,,han har inte sovit idag,لَمْ يَنَمْ اليَوم.
-from-the-preschool,,,,hon har inte sovit idag,لَمْ تَنَمْ اليَوم.
-from-the-preschool,,,,han har varit glad idag,كانَ فَرْحان اليَوم.
-from-the-preschool,,,,hon har varit glad idag,كانَتْ فَرْحانة اليَوم.
-from-the-preschool,,,,han har varit sur idag,كانَ زَعْلان اليَوم.
-from-the-preschool,,,,hon har varit sur idag,كانَ زَعْلانة اليَوم.
-from-the-preschool,,,,han grät mycket,بَكى كَثيراً.
-from-the-preschool,,,,hon grät mycket,بَكَتْ كَثيراً.
-from-the-preschool,,,,Kan du fråga varför?,هل يُمْكِنُك أن تَسْأَل لِماذا؟
-from-the-preschool,,,,han är sjuk,هو مَريض
-from-the-preschool,,,,hon är sjuk,هي مَريضة
-from-the-preschool,,,,han måste vila hemma några dagar,يَجِب أن يَسْتَريح في البيت كَم يَوم.
-from-the-preschool,,,,hon måste vila hemma några dagar,يَجِب أن تَسْتَريح في البيت كَم يَوم.
-from-the-preschool,,,,han har ont i magen,لديه وَجَع في بَطنِه.
-from-the-preschool,,,,hon har ont i magen,لديها وَجَع في بَطنِها.
-from-the-preschool,,,,ta med blöjor,اُحْضُرْ حِفاظات
-from-the-preschool,,,,ta med extra kläder,اُحْضُرْ مَلابِس إضافيّة
+",about the child,,about the child,"om barnet
+",عن الطِفْل
+about the child,,,,han har ätit bra idag,أَكَلَ جَيِّد اليَوم.
+about the child,,,,hon har ätit bra idag,أَكَلَت جَيِّد اليَوم.
+about the child,,,,han har inte ätit bra idag,لَمْ يَأْكُلْ جَيِّد اليَوم.
+about the child,,,,hon har inte ätit bra idag,لَمْ تَأْكُلْ جَيِّد اليَوم.
+about the child,,,,han har ätit lite idag,أَكَلَ قَليل اليَوم.
+about the child,,,,hon har ätit lite idag,أَكَلَت قَليل اليَوم.
+about the child,,,,han har sovit bra idag,لَقَدْ نامَ اليَوم.
+about the child,,,,hon har sovit bra idag,لَقَدْ نامَتْ اليَوم.
+about the child,,,,han har inte sovit idag,لَمْ يَنَمْ اليَوم.
+about the child,,,,hon har inte sovit idag,لَمْ تَنَمْ اليَوم.
+about the child,,,,han har varit glad idag,كانَ فَرْحَان اليَوم.
+about the child,,,,hon har varit glad idag,كانَتْ فَرْحَانة اليَوم.
+about the child,,,,han har varit sur idag,كانَ زَعْلان اليَوم.
+about the child,,,,hon har varit sur idag,كانَ زَعْلانة اليَوم.
+about the child,,,,han grät mycket,بَكى كَثيراً.
+about the child,,,,hon grät mycket,بَكَتْ كَثيراً.
+about the child,,,,Kan du fråga varför?,هل يُمْكِنُك أن تَسْأَل لِماذا؟
+about the child,,,,han är sjuk,هو مَريض
+about the child,,,,hon är sjuk,هي مَريضة
+about the child,,,,han måste vila hemma några dagar,يَجِب أن يَسْتَريح في البيت كَم يَوم.
+about the child,,,,hon måste vila hemma några dagar,يَجِب أن تَسْتَريح في البيت كَم يَوم.
+about the child,,,,han har ont i magen,لديه وَجَع في بَطنِه.
+about the child,,,,hon har ont i magen,لديها وَجَع في بَطنِها.
 parents,closing,,closing,avsluta,نِهاية
 closing,,,Bye!,Hej då!,مَعَ السَّلَامَة!
 closing,,,See you!,Vi ses!,إِلى اللقاء!
+Daily schedule,daily schedule,,daily schedule,dagsschema,جَدْوَل يَوْميّ
+daily schedule,,,,samling,اجتماع
+daily schedule,,,,leka,يَلْعَب
+daily schedule,,,,gå ut,يَخْرُج
+daily schedule,,,,lunch,الغَداء
+daily schedule,,,,mellanmål,وَجْبة خَفيفة
+daily schedule,,,,läsa,يَقْرَأ
+daily schedule,,,,rita,يَرْسُم
+daily schedule,,,,vila,يَسْتَريح
+daily schedule,,,,sova,يَنام
+daily schedule,,,,dansa,يَرْقُص
+daily schedule,,,,musik,موسيقى
+daily schedule,,,,gymnastik,رِياضة
 Quick,basic ,,basic words,basord,المفردات الأساسية
 basic,,,I,jag,أنا
 basic,,,you,du,أَنْتَ
 basic,,,yes,ja,نعم
 basic,,,no,nej,لا
+basic,,,not,inte,لا/لَيْسَ
+basic,,,good,bra,جَيِّد
+basic,,,OK,okej,مُوْافِق
+basic,,,bad,dåligt,سَيِّئ
+basic,,,great,utmärkt,عَظيم
 basic,,,want,vilja,يُريد
 basic,,,need,behöva,يحتاج إِلى
 basic,,,have,ha,لدى
 basic,,,I have,jag har ,عِنْدِي
 basic,,,can,kan,يستطيع
 basic,,,talk,tala,يَتَحَدَّث
-basic,,,OK,okej,مُوْافِق
-basic,,,not,inte,لا/لَيْسَ
-basic,,,good,bra,جَيِّد
-basic,,,bad,dåligt,سَيِّئ
-basic,,,great,utmärkt,عَظيم
+,,,,kom,تعال
 basic,,,to,till ,إِلَى
 basic,,,on,på,عَلَى
 basic,,,in,i,فِي
@@ -154,8 +171,9 @@ pronouns,,,you ,ni,أَنْتُمْ
 pronouns,,,they,de ,هُم
 pronouns,,,mine ,min ,لِي
 pronouns,,,your,din,لَك
-Quick,people,,people,människor,الناس
-people,,,,personal,المُوَظَّفينَ
+Quick,people,,people,"personer
+",ناس
+people,,,,personal,المُوَظَّفون
 people,,,,lärare,مُعَلِّم
 people,,,,sjuksköterska,مُمَرِّض 
 people,,,,läkare,طبيب
@@ -174,6 +192,7 @@ people,,,grandfather,morfar/farfar,جدّ
 Quick,places,,places,platser ,أماكن
 places,,,preschool,förskola,الحضانة
 places,,,home,hem,البيت
+places,,,toilet,toalett,الحَمَّام
 places,,,playground,lekplats,حَديقة أَطْفال
 places,,,park,park, حَديقة عامّة
 places,,,forest,skog,غابة
@@ -204,9 +223,9 @@ feelings,,,surprised,förvånad,مُنْدَهِش
 Quick,food,,food,mat,الطَعام
 food,,,,äta,يَأْكُل
 food,,,,dricka,يَشْرَب
-food,,,,tycka om,يَحِبّ
-food,,,,tycker inte om,لا يَحِبّ
-food,,,,frukost,الفُطور
+food,,,,tycker om,يُحِبّ
+food,,,,tycker inte om,لا يُحِبّ
+food,,,,frukost,الفُطُور
 food,,,,lunch,الغَداء
 food,,,,middag,العَشاء
 food,,,,mellanmål,وَجْبة خَفيفة
@@ -218,36 +237,41 @@ clothes,,,"
 clothes,,,,tunn långärmad tröja,كنزة خفيفة ذو أَكْمام طويلة
 clothes,,,,tunna byxor,بنطلون خفيف
 clothes,,,,tunn jacka,جاكيت خفيف
-clothes,,,,t-shirt,تي شيرْت
+clothes,,,,t shirt,تي شِيرْت
 clothes,,,,shorts,سِرْوال قَصير
-clothes,,,,linne,فانِلّة فانِلّة أَكْمام
+clothes,,,,linne,فانِلّة أَكْمام
 clothes,,,,keps,قُبَّعة صيفية
 clothes,,,,sandaler,صَنْدَل
 clothes,,,,skor,حِذاء
-clothes,,,,kofta,كَنْزة
+clothes,,,,kofta,كَنْزَة
 clothes,,,,regnkläder,مَلابِس مطرية
 clothes,,,,stövlar,جَزْمة
 clothes,,,,mössa,قُبَّعة
 clothes,,,,tunna vantar,كفوف خفاف
 clothes,,,,handskar,قُفّازان
-clothes,,,,tjock jacka,جاكيت ثخين
+clothes,,,,tjock jacka,جاكيت ثَخين
 clothes,,,,täckbyxor,بنطلون شتوي
 clothes,,,,tjock tröja,كَنْزة سَميكة
 clothes,,,,strumpor,جَوارِب
-clothes,,,,strumpbyxor/långkalsonger,كيلون/بجامة تحت البنطلون
-clothes,,,,hjälm,خوذة
+clothes,,,,strumpbyxor,كيلون/بجامة تحت البنطلون
+clothes,,,,hjälm,خُوذة
 Quick,activities,,activities,aktiviteter,أَنْشِطة
 activities,,,,tala,يَتَحَدَّث
+activities,,,,titta,يَنْظُر
+activities,,,,lyssna,يَسْتَمِع
 activities,,,play,leka,يَلْعَب
 activities,,,read,läsa,يَقْرَأ
 activities,,,write,skriva,يَكْتُب
 activities,,,draw,rita,يَرْسُم
+activities,,,,gå ut,يَخْرُج
 activities,,,sing,sjunga,يُغَنّي
-activities,,,sleep,sova,يَنْأَم
-activities,,,,rast,اسْتِراحة 
+activities,,,dance,dansa,يَرْقُص
+activities,,,,samling,اجتماع
+activities,,,sleep,sova,يَنام
+activities,,,,vila,يَسْتَريح
 activities,,,,utflykt,"
 نُزْهة"
-activities,,,,idrott,رِياضة
+activities,,,,gymnastik,رِياضة
 activities,,,,fest,حَفْلة
 Quick,things,,things,saker,أَشْياء
 things,,,,blöjor,حِفاظات
@@ -261,18 +285,25 @@ things,,,,penna,قَلَم رَصاص
 things,,,,suddgummi,مِمْحاة
 things,,,,dator,حاسوب
 things,,,,surfplatta,حاسوب لَوْحيّ
+Quick,transportation,,transportation,transport,المُوَاصَلاَت 
+transportation,,,,gå,يَذْهَب
+transportation,,,,cykel,دَرّاجة هَوائيّة
+transportation,,,,barnvagn,عَرَبَة أطفال
+transportation,,,,bil, سَيَّارَة 
+transportation,,,,buss, حاَفِلَة
+transportation,,,,spårvagn,تْرام
+transportation,,,,tåg,قِطَار
+transportation,,,,flygplan, طَائِرَة
 "
 Quick",communication,,communication,kommunikation,التَواصُل
 communication,,,call,ringa,يُهاتِف
 communication,,,phone,telefon,هاتِف
 communication,,,speak on the phone,tala i telefon,يَتَحَدَّث على الهاتف
-communication,,,contact,kontaka,يَتَّصِل بِ
 communication,,,"send
 ",skicka,يرسل
 communication,,,phone number,telefonnummer,رَقْم هاتِفٍ
-communication,,,email,e-post,بَريد إلِكْتْرونيّ
+communication,,,email,e post,بَريد إلِكْتْرونيّ
 communication,,,text message,sms,رِسالة نَصّيّة
-"
-",,,"
-","
-",
+communication,,,"
+",brev,رِسالة
+communication,,,,adress,عُنْوان

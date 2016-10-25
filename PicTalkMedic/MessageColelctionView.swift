@@ -161,7 +161,7 @@ class MessageColelctionView:  PicTalkCollectionView, UIGestureRecognizerDelegate
  
     func swipeToRemove(gestureReconizer:UIGestureRecognizer){
         
-        let not = gestureReconizer.numberOfTouches
+       
         
         if let cell = gestureReconizer.view as? MessageCollectionViewCell{
             print("-------")

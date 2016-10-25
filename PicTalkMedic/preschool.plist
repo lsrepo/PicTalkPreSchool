@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>arabic</key>
-		<string>والِدان</string>
+		<string>أولياء الامور</string>
 		<key>child</key>
 		<string>parents</string>
 		<key>english</key>
@@ -13,6 +13,18 @@
 		<string>context</string>
 		<key>swedish</key>
 		<string>föräldrar</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>جَدْوَل يَوْميّ</string>
+		<key>child</key>
+		<string>Daily schedule</string>
+		<key>english</key>
+		<string>daily schedule</string>
+		<key>parent</key>
+		<string>context</string>
+		<key>swedish</key>
+		<string>dagsschema</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
@@ -108,21 +120,21 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>إِلى الحضانة</string>
+		<string>معلومات عملية</string>
 		<key>child</key>
-		<string>to-the-preschool</string>
+		<string>practical information</string>
 		<key>english</key>
-		<string>to the preschool</string>
+		<string>practical information</string>
 		<key>parent</key>
 		<string>parents</string>
 		<key>swedish</key>
-		<string>till förskolan</string>
+		<string>praktisk information</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
 		<string>أنا سَوْفَ أَتَأَخَّر.</string>
 		<key>parent</key>
-		<string>to-the-preschool</string>
+		<string>practical information</string>
 		<key>swedish</key>
 		<string>Jag kommer att bli sen.</string>
 	</dict>
@@ -130,7 +142,7 @@
 		<key>arabic</key>
 		<string>لديه موعد طبيب.</string>
 		<key>parent</key>
-		<string>to-the-preschool</string>
+		<string>practical information</string>
 		<key>swedish</key>
 		<string>Han har läkarbesök.</string>
 	</dict>
@@ -138,27 +150,51 @@
 		<key>arabic</key>
 		<string>لديها موعد طبيب.</string>
 		<key>parent</key>
-		<string>to-the-preschool</string>
+		<string>practical information</string>
 		<key>swedish</key>
 		<string>Hon har läkarbesök.</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>مِن الحضانة</string>
+		<string>اُحْضُرْ حِفاظات</string>
+		<key>parent</key>
+		<string>practical information</string>
+		<key>swedish</key>
+		<string>ta med blöjor</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>اُحْضُرْ مَلابِس إِضافيّة</string>
+		<key>parent</key>
+		<string>practical information</string>
+		<key>swedish</key>
+		<string>ta med extra kläder</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>اجتماع أولياء الامور</string>
+		<key>parent</key>
+		<string>practical information</string>
+		<key>swedish</key>
+		<string>föräldramöte</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>عن الطِفْل</string>
 		<key>child</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>english</key>
-		<string>from the preschool</string>
+		<string>about the child</string>
 		<key>parent</key>
 		<string>parents</string>
 		<key>swedish</key>
-		<string>från förskolan</string>
+		<string>om barnet</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
 		<string>أَكَلَ جَيِّد اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>han har ätit bra idag</string>
 	</dict>
@@ -166,7 +202,7 @@
 		<key>arabic</key>
 		<string>أَكَلَت جَيِّد اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>hon har ätit bra idag</string>
 	</dict>
@@ -174,7 +210,7 @@
 		<key>arabic</key>
 		<string>لَمْ يَأْكُلْ جَيِّد اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>han har inte ätit bra idag</string>
 	</dict>
@@ -182,7 +218,7 @@
 		<key>arabic</key>
 		<string>لَمْ تَأْكُلْ جَيِّد اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>hon har inte ätit bra idag</string>
 	</dict>
@@ -190,7 +226,7 @@
 		<key>arabic</key>
 		<string>أَكَلَ قَليل اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>han har ätit lite idag</string>
 	</dict>
@@ -198,7 +234,7 @@
 		<key>arabic</key>
 		<string>أَكَلَت قَليل اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>hon har ätit lite idag</string>
 	</dict>
@@ -206,7 +242,7 @@
 		<key>arabic</key>
 		<string>لَقَدْ نامَ اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>han har sovit bra idag</string>
 	</dict>
@@ -214,7 +250,7 @@
 		<key>arabic</key>
 		<string>لَقَدْ نامَتْ اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>hon har sovit bra idag</string>
 	</dict>
@@ -222,7 +258,7 @@
 		<key>arabic</key>
 		<string>لَمْ يَنَمْ اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>han har inte sovit idag</string>
 	</dict>
@@ -230,23 +266,23 @@
 		<key>arabic</key>
 		<string>لَمْ تَنَمْ اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>hon har inte sovit idag</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>كانَ فَرْحان اليَوم.</string>
+		<string>كانَ فَرْحَان اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>han har varit glad idag</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>كانَتْ فَرْحانة اليَوم.</string>
+		<string>كانَتْ فَرْحَانة اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>hon har varit glad idag</string>
 	</dict>
@@ -254,7 +290,7 @@
 		<key>arabic</key>
 		<string>كانَ زَعْلان اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>han har varit sur idag</string>
 	</dict>
@@ -262,7 +298,7 @@
 		<key>arabic</key>
 		<string>كانَ زَعْلانة اليَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>hon har varit sur idag</string>
 	</dict>
@@ -270,7 +306,7 @@
 		<key>arabic</key>
 		<string>بَكى كَثيراً.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>han grät mycket</string>
 	</dict>
@@ -278,7 +314,7 @@
 		<key>arabic</key>
 		<string>بَكَتْ كَثيراً.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>hon grät mycket</string>
 	</dict>
@@ -286,7 +322,7 @@
 		<key>arabic</key>
 		<string>هل يُمْكِنُك أن تَسْأَل لِماذا؟</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>Kan du fråga varför?</string>
 	</dict>
@@ -294,7 +330,7 @@
 		<key>arabic</key>
 		<string>هو مَريض</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>han är sjuk</string>
 	</dict>
@@ -302,7 +338,7 @@
 		<key>arabic</key>
 		<string>هي مَريضة</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>hon är sjuk</string>
 	</dict>
@@ -310,7 +346,7 @@
 		<key>arabic</key>
 		<string>يَجِب أن يَسْتَريح في البيت كَم يَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>han måste vila hemma några dagar</string>
 	</dict>
@@ -318,7 +354,7 @@
 		<key>arabic</key>
 		<string>يَجِب أن تَسْتَريح في البيت كَم يَوم.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>hon måste vila hemma några dagar</string>
 	</dict>
@@ -326,7 +362,7 @@
 		<key>arabic</key>
 		<string>لديه وَجَع في بَطنِه.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>han har ont i magen</string>
 	</dict>
@@ -334,25 +370,9 @@
 		<key>arabic</key>
 		<string>لديها وَجَع في بَطنِها.</string>
 		<key>parent</key>
-		<string>from-the-preschool</string>
+		<string>about the child</string>
 		<key>swedish</key>
 		<string>hon har ont i magen</string>
-	</dict>
-	<dict>
-		<key>arabic</key>
-		<string>اُحْضُرْ حِفاظات</string>
-		<key>parent</key>
-		<string>from-the-preschool</string>
-		<key>swedish</key>
-		<string>ta med blöjor</string>
-	</dict>
-	<dict>
-		<key>arabic</key>
-		<string>اُحْضُرْ مَلابِس إضافيّة</string>
-		<key>parent</key>
-		<string>from-the-preschool</string>
-		<key>swedish</key>
-		<string>ta med extra kläder</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
@@ -385,6 +405,114 @@
 		<string>closing</string>
 		<key>swedish</key>
 		<string>Vi ses!</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>جَدْوَل يَوْميّ</string>
+		<key>child</key>
+		<string>daily schedule</string>
+		<key>english</key>
+		<string>daily schedule</string>
+		<key>parent</key>
+		<string>Daily schedule</string>
+		<key>swedish</key>
+		<string>dagsschema</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>اجتماع</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>samling</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>يَلْعَب</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>leka</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>يَخْرُج</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>gå ut</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>الغَداء</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>lunch</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>وَجْبة خَفيفة</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>mellanmål</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>يَقْرَأ</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>läsa</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>يَرْسُم</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>rita</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>يَسْتَريح</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>vila</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>يَنام</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>sova</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>يَرْقُص</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>dansa</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>موسيقى</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>musik</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>رِياضة</string>
+		<key>parent</key>
+		<string>daily schedule</string>
+		<key>swedish</key>
+		<string>gymnastik</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
@@ -437,6 +565,56 @@
 		<string>basic</string>
 		<key>swedish</key>
 		<string>nej</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>لا/لَيْسَ</string>
+		<key>english</key>
+		<string>not</string>
+		<key>parent</key>
+		<string>basic</string>
+		<key>swedish</key>
+		<string>inte</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>جَيِّد</string>
+		<key>english</key>
+		<string>good</string>
+		<key>parent</key>
+		<string>basic</string>
+		<key>swedish</key>
+		<string>bra</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>مُوْافِق</string>
+		<key>english</key>
+		<string>OK</string>
+		<key>parent</key>
+		<string>basic</string>
+		<key>swedish</key>
+		<string>okej</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>سَيِّئ</string>
+		<key>english</key>
+		<string>bad</string>
+		<key>parent</key>
+		<string>basic</string>
+		<key>swedish</key>
+		<string>dåligt</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>عَظيم</string>
+		<key>english</key>
+		<string>great</string>
+		<key>parent</key>
+		<string>basic</string>
+		<key>swedish</key>
+		<string>utmärkt</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
@@ -500,53 +678,9 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>مُوْافِق</string>
-		<key>english</key>
-		<string>OK</string>
-		<key>parent</key>
-		<string>basic</string>
+		<string>تعال</string>
 		<key>swedish</key>
-		<string>okej</string>
-	</dict>
-	<dict>
-		<key>arabic</key>
-		<string>لا/لَيْسَ</string>
-		<key>english</key>
-		<string>not</string>
-		<key>parent</key>
-		<string>basic</string>
-		<key>swedish</key>
-		<string>inte</string>
-	</dict>
-	<dict>
-		<key>arabic</key>
-		<string>جَيِّد</string>
-		<key>english</key>
-		<string>good</string>
-		<key>parent</key>
-		<string>basic</string>
-		<key>swedish</key>
-		<string>bra</string>
-	</dict>
-	<dict>
-		<key>arabic</key>
-		<string>سَيِّئ</string>
-		<key>english</key>
-		<string>bad</string>
-		<key>parent</key>
-		<string>basic</string>
-		<key>swedish</key>
-		<string>dåligt</string>
-	</dict>
-	<dict>
-		<key>arabic</key>
-		<string>عَظيم</string>
-		<key>english</key>
-		<string>great</string>
-		<key>parent</key>
-		<string>basic</string>
-		<key>swedish</key>
-		<string>utmärkt</string>
+		<string>kom</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
@@ -1318,7 +1452,7 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>الناس</string>
+		<string>ناس</string>
 		<key>child</key>
 		<string>people</string>
 		<key>english</key>
@@ -1326,11 +1460,11 @@
 		<key>parent</key>
 		<string>Quick</string>
 		<key>swedish</key>
-		<string>människor</string>
+		<string>personer</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>المُوَظَّفينَ</string>
+		<string>المُوَظَّفون</string>
 		<key>parent</key>
 		<string>people</string>
 		<key>swedish</key>
@@ -1491,6 +1625,16 @@
 		<string>places</string>
 		<key>swedish</key>
 		<string>hem</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>الحَمَّام</string>
+		<key>english</key>
+		<string>toilet</string>
+		<key>parent</key>
+		<string>places</string>
+		<key>swedish</key>
+		<string>toalett</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
@@ -1794,15 +1938,15 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>يَحِبّ</string>
+		<string>يُحِبّ</string>
 		<key>parent</key>
 		<string>food</string>
 		<key>swedish</key>
-		<string>tycka om</string>
+		<string>tycker om</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>لا يَحِبّ</string>
+		<string>لا يُحِبّ</string>
 		<key>parent</key>
 		<string>food</string>
 		<key>swedish</key>
@@ -1810,7 +1954,7 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>الفُطور</string>
+		<string>الفُطُور</string>
 		<key>parent</key>
 		<string>food</string>
 		<key>swedish</key>
@@ -1902,11 +2046,11 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>تي شيرْت</string>
+		<string>تي شِيرْت</string>
 		<key>parent</key>
 		<string>clothes</string>
 		<key>swedish</key>
-		<string>t-shirt</string>
+		<string>t shirt</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
@@ -1918,7 +2062,7 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>فانِلّة فانِلّة أَكْمام</string>
+		<string>فانِلّة أَكْمام</string>
 		<key>parent</key>
 		<string>clothes</string>
 		<key>swedish</key>
@@ -1950,7 +2094,7 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>كَنْزة</string>
+		<string>كَنْزَة</string>
 		<key>parent</key>
 		<string>clothes</string>
 		<key>swedish</key>
@@ -1998,7 +2142,7 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>جاكيت ثخين</string>
+		<string>جاكيت ثَخين</string>
 		<key>parent</key>
 		<string>clothes</string>
 		<key>swedish</key>
@@ -2034,11 +2178,11 @@
 		<key>parent</key>
 		<string>clothes</string>
 		<key>swedish</key>
-		<string>strumpbyxor/långkalsonger</string>
+		<string>strumpbyxor</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>خوذة</string>
+		<string>خُوذة</string>
 		<key>parent</key>
 		<string>clothes</string>
 		<key>swedish</key>
@@ -2063,6 +2207,22 @@
 		<string>activities</string>
 		<key>swedish</key>
 		<string>tala</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>يَنْظُر</string>
+		<key>parent</key>
+		<string>activities</string>
+		<key>swedish</key>
+		<string>titta</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>يَسْتَمِع</string>
+		<key>parent</key>
+		<string>activities</string>
+		<key>swedish</key>
+		<string>lyssna</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
@@ -2106,6 +2266,14 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
+		<string>يَخْرُج</string>
+		<key>parent</key>
+		<string>activities</string>
+		<key>swedish</key>
+		<string>gå ut</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
 		<string>يُغَنّي</string>
 		<key>english</key>
 		<string>sing</string>
@@ -2116,7 +2284,25 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>يَنْأَم</string>
+		<string>يَرْقُص</string>
+		<key>english</key>
+		<string>dance</string>
+		<key>parent</key>
+		<string>activities</string>
+		<key>swedish</key>
+		<string>dansa</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>اجتماع</string>
+		<key>parent</key>
+		<string>activities</string>
+		<key>swedish</key>
+		<string>samling</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>يَنام</string>
 		<key>english</key>
 		<string>sleep</string>
 		<key>parent</key>
@@ -2126,11 +2312,11 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>اسْتِراحة</string>
+		<string>يَسْتَريح</string>
 		<key>parent</key>
 		<string>activities</string>
 		<key>swedish</key>
-		<string>rast</string>
+		<string>vila</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
@@ -2146,7 +2332,7 @@
 		<key>parent</key>
 		<string>activities</string>
 		<key>swedish</key>
-		<string>idrott</string>
+		<string>gymnastik</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
@@ -2258,6 +2444,82 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
+		<string>المُوَاصَلاَت</string>
+		<key>child</key>
+		<string>transportation</string>
+		<key>english</key>
+		<string>transportation</string>
+		<key>parent</key>
+		<string>Quick</string>
+		<key>swedish</key>
+		<string>transport</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>يَذْهَب</string>
+		<key>parent</key>
+		<string>transportation</string>
+		<key>swedish</key>
+		<string>gå</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>دَرّاجة هَوائيّة</string>
+		<key>parent</key>
+		<string>transportation</string>
+		<key>swedish</key>
+		<string>cykel</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>عَرَبَة أطفال</string>
+		<key>parent</key>
+		<string>transportation</string>
+		<key>swedish</key>
+		<string>barnvagn</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>سَيَّارَة</string>
+		<key>parent</key>
+		<string>transportation</string>
+		<key>swedish</key>
+		<string>bil</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>حاَفِلَة</string>
+		<key>parent</key>
+		<string>transportation</string>
+		<key>swedish</key>
+		<string>buss</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>تْرام</string>
+		<key>parent</key>
+		<string>transportation</string>
+		<key>swedish</key>
+		<string>spårvagn</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>قِطَار</string>
+		<key>parent</key>
+		<string>transportation</string>
+		<key>swedish</key>
+		<string>tåg</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>طَائِرَة</string>
+		<key>parent</key>
+		<string>transportation</string>
+		<key>swedish</key>
+		<string>flygplan</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
 		<string>التَواصُل</string>
 		<key>child</key>
 		<string>communication</string>
@@ -2300,16 +2562,6 @@
 	</dict>
 	<dict>
 		<key>arabic</key>
-		<string>يَتَّصِل بِ</string>
-		<key>english</key>
-		<string>contact</string>
-		<key>parent</key>
-		<string>communication</string>
-		<key>swedish</key>
-		<string>kontaka</string>
-	</dict>
-	<dict>
-		<key>arabic</key>
 		<string>يرسل</string>
 		<key>english</key>
 		<string>send</string>
@@ -2336,7 +2588,7 @@
 		<key>parent</key>
 		<string>communication</string>
 		<key>swedish</key>
-		<string>e-post</string>
+		<string>e post</string>
 	</dict>
 	<dict>
 		<key>arabic</key>
@@ -2348,6 +2600,21 @@
 		<key>swedish</key>
 		<string>sms</string>
 	</dict>
-	<dict/>
+	<dict>
+		<key>arabic</key>
+		<string>رِسالة</string>
+		<key>parent</key>
+		<string>communication</string>
+		<key>swedish</key>
+		<string>brev</string>
+	</dict>
+	<dict>
+		<key>arabic</key>
+		<string>عُنْوان</string>
+		<key>parent</key>
+		<string>communication</string>
+		<key>swedish</key>
+		<string>adress</string>
+	</dict>
 </array>
 </plist>

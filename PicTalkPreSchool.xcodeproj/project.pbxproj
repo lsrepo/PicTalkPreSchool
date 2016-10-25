@@ -145,7 +145,7 @@
 		276284E51D74D282001F8039 = {
 			isa = PBXGroup;
 			children = (
-				276284F01D74D282001F8039 /* PicTalkMedic */,
+				276284F01D74D282001F8039 /* PicTalkPreSchool */,
 				276285081D74D282001F8039 /* PicTalkMedicTests */,
 				276284EF1D74D282001F8039 /* Products */,
 			);
@@ -160,7 +160,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		276284F01D74D282001F8039 /* PicTalkMedic */ = {
+		276284F01D74D282001F8039 /* PicTalkPreSchool */ = {
 			isa = PBXGroup;
 			children = (
 				276284F51D74D282001F8039 /* Main.storyboard */,
@@ -173,6 +173,7 @@
 				273562A81D7AFCCB00302289 /* Message */,
 				278A97A11D7B115900617A5D /* Others */,
 			);
+			name = PicTalkPreSchool;
 			path = PicTalkMedic;
 			sourceTree = "<group>";
 		};
@@ -464,7 +465,7 @@
 				DEVELOPMENT_TEAM = JFRSPHJ244;
 				INFOPLIST_FILE = PicTalkMedic/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = pictalk.se.PicTalkMedic;
+				PRODUCT_BUNDLE_IDENTIFIER = pictalk.se.PicTalkPreSchool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 2;
@@ -478,7 +479,7 @@
 				DEVELOPMENT_TEAM = JFRSPHJ244;
 				INFOPLIST_FILE = PicTalkMedic/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = pictalk.se.PicTalkMedic;
+				PRODUCT_BUNDLE_IDENTIFIER = pictalk.se.PicTalkPreSchool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 2;
